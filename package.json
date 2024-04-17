@@ -1,6 +1,6 @@
 {
     "name": "teapackage-thiagoverma1",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -15,5 +15,36 @@
     },
     "bugs": {
         "url": "https://github.com/thiagoverma1/thiagoverma1/issues"
+    },
+    "dependencies": {
+        "teapackage-abbasinisar831": "^1.0.1",
+        "teapackage-azzoparditohill203": "^1.0.1",
+        "teapackage-bartskilgo422": "^1.0.1",
+        "teapackage-bumpskeitha150": "^1.0.1",
+        "teapackage-carlavergara643": "^1.0.0",
+        "teapackage-dobintuenge844": "^1.0.1",
+        "teapackage-erbjamal370": "^1.0.1",
+        "teapackage-goldakmillion88": "^1.0.1",
+        "teapackage-griggersapadoca199": "^1.0.1",
+        "teapackage-groencronan589": "^1.0.1",
+        "teapackage-guempelspengler952": "^1.0.1",
+        "teapackage-haddixjayme250": "^1.0.1",
+        "teapackage-haefnersheskey658": "^1.0.0",
+        "teapackage-harmeyermaugeri703": "^1.0.1",
+        "teapackage-kanarisgrall225": "^1.0.1",
+        "teapackage-klarkohus135": "^1.0.1",
+        "teapackage-kroezelokke929": "^1.0.0",
+        "teapackage-larmonbutland40": "^1.0.1",
+        "teapackage-lemarmenette453": "^1.0.1",
+        "teapackage-lobachmcquaide422": "^1.0.1",
+        "teapackage-logronowierson941": "^1.0.1",
+        "teapackage-richardnegroj7": "^1.0.1",
+        "teapackage-riviraboiles308": "^1.0.1",
+        "teapackage-swaniganfretwell106": "^1.0.1",
+        "teapackage-tapiz": "^1.0.3",
+        "teapackage-thiagoverma1": "^1.0.0",
+        "teapackage-waldenbergdeidre590": "^1.0.1",
+        "teapackage-yumasbionda605": "^1.0.1",
+        "teapackage-zlatenwanda12": "^1.0.0"
     }
 }
